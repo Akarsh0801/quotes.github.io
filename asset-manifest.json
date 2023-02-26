@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Akarsh0801/quotes.github.io/static/css/main.a43415aa.css",
+    "main.js": "/Akarsh0801/quotes.github.io/static/js/main.e5c25a5c.js",
+    "static/js/787.28cb0dcd.chunk.js": "/Akarsh0801/quotes.github.io/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/Akarsh0801/quotes.github.io/index.html",
+    "main.a43415aa.css.map": "/Akarsh0801/quotes.github.io/static/css/main.a43415aa.css.map",
+    "main.e5c25a5c.js.map": "/Akarsh0801/quotes.github.io/static/js/main.e5c25a5c.js.map",
+    "787.28cb0dcd.chunk.js.map": "/Akarsh0801/quotes.github.io/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a43415aa.css",
+    "static/js/main.e5c25a5c.js"
+  ]
+}
